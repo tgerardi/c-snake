@@ -4,6 +4,6 @@ A simple Snake Game for Linux using Raylib
 
 ```bash
 chmod +x install.sh
-./install
+./install.sh
 SnakeGame
 ```
